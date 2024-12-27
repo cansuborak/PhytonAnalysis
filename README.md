@@ -1,5 +1,3 @@
-# PhytonAnalysis
-
 # EV Charging Patterns
 
 This script demonstrates how to locate and print the file path of `ev_charging_patterns.csv` in the current directory (or any subdirectories).
